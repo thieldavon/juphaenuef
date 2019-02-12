@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waecohku.tezjnr.com/sitemap.xml
